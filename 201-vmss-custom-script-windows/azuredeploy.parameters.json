@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
 	"adminUsername": {
-	    "value": "azureuser"
+	    "value": "oelan"
 	},
 	"adminPassword": {
-	    "value": "GEN-PASSWORD"
+	    "value": "6pVWf86zF8HjB84G7bADWrxgWck9FJRE"
 	},
 	"vmssName": {
-	    "value": "GEN-UNIQUE-8"
+	    "value": "trainingsep2018"
 	}
     }
 }
